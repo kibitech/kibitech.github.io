@@ -2,5 +2,5 @@ theme: jekyll-theme-cayman
 title: Kibitech
 description: The Personal Robot (PR)
 show_downloads : true
-source : https://github.com/kibitech
+site.github.url: https://github.com/kibitech
 
