@@ -16,10 +16,6 @@ Kibitech is an open source/open hardware project to develop a **The Personal Rob
 
 ### M3: Software
 
-![2](https://image.ibb.co/nEvx36/M2_03.png)
-
-### M2: Hardware
-
 ![3](https://image.ibb.co/bSKeGR/M3_04.png)
 
 ### M4: Telecom
