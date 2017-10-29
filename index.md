@@ -35,8 +35,11 @@ Kibitech is an open source/open hardware project to develop a **The Personal Rob
 [Google +](https://plus.google.com/communities/100380758547041773409)
 
 [Hackday.io](https://hackaday.io/project/27837-kibitech/)
+
 [GitHub](https://github.com/kibitech)
+
 [Twitter: @Kibitech_pr](https://twitter.com/kibitech_pr)
+
 
 ## Colaborators
 
