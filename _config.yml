@@ -5,4 +5,5 @@ show_downloads : true
 site.github.url: https://github.com/kibitech
 # site.github.repository_url : https://github.com/kibitech
 site.github.repository_url : true
+site.github: true
 
