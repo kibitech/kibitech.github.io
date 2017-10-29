@@ -57,5 +57,5 @@ Kibitech is an open source/open hardware project to develop a **The Personal Rob
 
 ### Support and contact
 
-
+**kibitech.pr@gmail.com**
 
