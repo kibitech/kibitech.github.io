@@ -3,5 +3,6 @@ title: Kibitech
 description: The Personal Robot (PR)
 show_downloads : true
 site.github.url: https://github.com/kibitech
-site.github.repository_url : https://github.com/kibitech
+# site.github.repository_url : https://github.com/kibitech
+site.github.repository_url : true
 
