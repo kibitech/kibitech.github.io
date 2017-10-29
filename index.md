@@ -1,4 +1,8 @@
 ##  Welcome to  Kibitech
+
+![](https://lh3.googleusercontent.com/R6T3IlygK2NKcQUdh_mRelMZLWK5srB9gNgo_ExGIcnpSsF_w95OSLVJrudw9ZQiOaJaHW2126IkO6g=w1916-h967-rw)
+
+
 ### Support and contact
 
 ---
