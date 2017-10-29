@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
-title: Welcome to the Kibitech' homepage!
+title: Welcome to Kibitech
 description: The Personal Robot (PR)
+show_downloads: true
+
