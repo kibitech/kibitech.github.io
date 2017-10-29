@@ -41,7 +41,7 @@ Kibitech is an open source/open hardware project to develop a **The Personal Rob
 
 | Name         | Rol               | Date |
 |:-------------|:------------------|:------|
-| Elecfreaks| Partner | 28-Oct-2017  |
+| [Elecfreaks](https://www.elecfreaks.com)| Partner | 28-Oct-2017  |
 
 
 ### Support and contact
