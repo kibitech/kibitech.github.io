@@ -1,8 +1,31 @@
-##  Welcome to  Kibitech
+#  Welcome to  Kibitech
 
-![](https://image.ibb.co/nH08Am/Modules.png)
+Kibitech is an open source/open hardware project to develop a The Personal Robot (PR), for It we established that we need 4 modules to achieve our goal, this modules are:
 
-***
+### Modules:
+
+![0](https://image.ibb.co/nH08Am/Modules.png)
+
+### M1: Physical
+
+![1](https://image.ibb.co/mR5aqm/M1_02.png)
+
+### M2: Hardware
+
+![2](https://image.ibb.co/nEvx36/M2_03.png)
+
+### M3: Software
+
+![2](https://image.ibb.co/nEvx36/M2_03.png)
+
+### M2: Hardware
+
+![3](https://image.ibb.co/bSKeGR/M3_04.png)
+
+### M4: Telecom
+
+![4](https://image.ibb.co/mz4DbR/M5_05.png)
+
 ### Support and contact
 
 ---
