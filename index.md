@@ -23,6 +23,9 @@ Kibitech is an open source/open hardware project to develop a **The Personal Rob
 ![4](https://image.ibb.co/mz4DbR/M5_05.png)
 
 * * *
+### System Model
+
+![5](https://image.ibb.co/gN3bD6/m3_Os.png)
 
 [Link to another page](another-page).
 
