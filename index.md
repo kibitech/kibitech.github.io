@@ -47,7 +47,7 @@ Kibitech is an open source/open hardware project to develop a **The Personal Rob
 | [Julian Dario Luna Patiño (JudLup)](https://twitter.com/judlup)| Founder | 19-Oct-2017  |
 |[Pandauino?](https://twitter.com/pandauino)| Collaborator   | 26-Oct-2017  |
 
-## Support by
+## Partners
 
 | Name         | Rol               | Date |
 |:-------------|:------------------|:------|
