@@ -2,6 +2,10 @@
 
 Kibitech is an open source/open hardware project to develop a **The Personal Robot (PR)**, for It we established that we need 4 modules to achieve our goal, this modules are:
 
+### Time line:
+
+![](https://image.ibb.co/dgX2tG/Captura_de_pantalla_2017_11_04_a_la_s_2_18_59_p_m.png)
+See at [Wrike](https://www.wrike.com/timeline/index.html?id=uApbh58jrRdeaJCeFy61b9qvfkwSu5IM|IEYTQMZZGYZDMLSTG4)
 ### Modules:
 
 ![0](https://image.ibb.co/nH08Am/Modules.png)
