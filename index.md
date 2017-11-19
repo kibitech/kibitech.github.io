@@ -56,12 +56,17 @@ See at [Wrike](https://www.wrike.com/timeline/index.html?id=uApbh58jrRdeaJCeFy61
 | [Julian Dario Luna Patiño (JudLup)](https://twitter.com/judlup)| Founder | 19-Oct-2017  |
 |[Pandauino?](https://twitter.com/pandauino)| Collaborator   | 26-Oct-2017  |
 
+
 ## Partners
 
 | Name         | Rol               | Date |
 |:-------------|:------------------|:------|
-| [Elecfreaks](https://www.elecfreaks.com)| Hardware Partner | 28-Oct-2017  |
 | [Domoteco](https://www.domoteco.com)| Co-Founder | 19-Oct-2017  |
+| [Elecfreaks](https://www.elecfreaks.com)| Hardware Partner | 28-Oct-2017  |
+| [Banana Pi](http://banana-pi.org/)| Hardware Partner | 14-Nov-2017  |
+| [MakersGate](makersgate.com)| Media Partner | 18-Nov-2017  |
+
+
 
 
 ### Support and contact
